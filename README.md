@@ -1,2 +1,2 @@
-# Hello
-### I will just dump code here. Thanks!
+# Hello classmate!
+### Website ko sana yan kaso nakakatamad mag code huhuhu.
