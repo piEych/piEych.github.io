@@ -1,3 +1,11 @@
+.preview {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background-color: #ffffff;
+    padding: 3rem;
+    border: 1px solid #eeeeee;
+}
+
 demo-footer {
   background-color: #00a6d2;
   box-shadow: 0 -2px 4px 0 rgba(0, 0, 0, 0.5);
