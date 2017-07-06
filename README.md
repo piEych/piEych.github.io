@@ -1,2 +1,2 @@
-# Hello classmate!
-### Website ko sana yan kaso nakakatamad mag code huhuhu.
+# Personal Website
+Right now contains a table of games played by SO and I. Uses the U.S. Web Design standards.
